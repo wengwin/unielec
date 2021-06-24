@@ -32,7 +32,7 @@ env:
   UPLOAD_WETRANSFER: false
   UPLOAD_RELEASE: false
   TZ: Asia/Singapore
-  FILE_NAME: OpenWrt Newifi D2 [V21.02 250520]
+  FILE_NAME: OpenWrt Unielec 7628 [V21.02 250520]
 
 jobs:
   build:
